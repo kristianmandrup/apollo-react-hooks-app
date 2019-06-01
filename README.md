@@ -1,4 +1,19 @@
+# Apollo React Hooks app
+
+- [Apollo GraphQL Hooks - Queries and Mutations](https://www.youtube.com/watch?v=G8hpICPmNdo)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Local state management
+
+See `client.js` and `state.js` for local state configuration.
+
+- [Apollo Link State](https://www.youtube.com/watch?v=CnhHeSAAbRM)
+- [apollo-link-state-tutorial](https://github.com/benawad/apollo-link-state-tutorial)
+
+## AWS Amplify & AppSync
+
+- [Deploy a GraphQL API with Authentication & Authorization in 8 minutes with AWS Amplify & AWS AppSync](https://www.youtube.com/watch?v=gQf8jIuimlw)
 
 ## Available Scripts
 
